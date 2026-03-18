@@ -1,0 +1,17 @@
+Fdr	KEYWORD1
+OneTimeRun	KEYWORD2
+Pointers	KEYWORD2
+PutInLoop	KEYWORD2
+Port6Peak	KEYWORD2
+WriteSEEPROM	KEYWORD2
+ReadSEEPROM	KEYWORD2
+ReadEEPROM	KEYWORD2
+VideoRecordAtPowerUp	KEYWORD2
+StartVideoRecording	KEYWORD2
+GoToVideoStandby	KEYWORD2
+GoToStillPictureStandby	KEYWORD2
+TakeStillPicture	KEYWORD2
+GlobalNavigationSatelliteSystem	KEYWORD2
+Iridium	KEYWORD2
+changeBytesToUnsignedLong KEYWORD2
+I2C KEYWORK2

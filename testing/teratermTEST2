@@ -1,0 +1,541 @@
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.64V
+[PHASE] PSI=14.67  dPSI=0.0063  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11440  rec=202  latch=0b0
+[SEEPROM] Rec#202  addr=11424  used=8%  (714/8191 recs)  AHT=2  radioIdx=3  sig=4  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.96V
+[PHASE] PSI=14.67  dPSI=0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11456  rec=203  latch=0b0
+[SEEPROM] Rec#203  addr=11440  used=8%  (715/8191 recs)  AHT=2  radioIdx=4  sig=3  flight=0b00000001
+[ANALOG] PSI=14.68  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.96V
+[PHASE] PSI=14.68  dPSI=0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11472  rec=204  latch=0b0
+[SEEPROM] Rec#204  addr=11456  used=8%  (716/8191 recs)  AHT=2  radioIdx=5  sig=4  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.83V
+[PHASE] PSI=14.67  dPSI=-0.0063  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11488  rec=205  latch=0b0
+[SEEPROM] Rec#205  addr=11472  used=8%  (717/8191 recs)  AHT=2  radioIdx=6  sig=2  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.89V
+[PHASE] PSI=14.67  dPSI=0.0007  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11504  rec=206  latch=0b0
+[SEEPROM] Rec#206  addr=11488  used=8%  (718/8191 recs)  AHT=2  radioIdx=7  sig=3  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.94V
+[PHASE] PSI=14.67  dPSI=-0.0007  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11520  rec=207  latch=0b0
+[SEEPROM] Rec#207  addr=11504  used=8%  (719/8191 recs)  AHT=2  radioIdx=8  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.88V
+[PHASE] PSI=14.66  dPSI=-0.0119  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11536  rec=208  latch=0b0
+[SEEPROM] Rec#208  addr=11520  used=8%  (720/8191 recs)  AHT=2  radioIdx=9  sig=4  flight=0b00000001
+
+[SYS] ╔══════════════════════════════════════════════╗
+[SYS] ║         SYSTEM STATUS SUMMARY               ║
+[SYS] ╚══════════════════════════════════════════════╝
+[SYS] Uptime: 0m 30s
+[SYS] flightStatus = 0b00000001  → BT:OK  Burst:no  Phase:GROUND
+[SYS] SEEPROM: 720 records, 8% used
+[SYS] BT: lastValid=yes  state=IDLE
+[SYS] Iridium: state=IDLE  txOK=0  lastCode=0  nextTx in 269s
+[SYS] Sensors: PSI=14.66  |G|=0.9  AHT20=OK
+[SYS] ──────────────────────────────────────────────
+
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.96V
+[PHASE] PSI=14.67  dPSI=0.0176  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11552  rec=209  latch=0b0
+[SEEPROM] Rec#209  addr=11536  used=8%  (721/8191 recs)  AHT=2  radioIdx=10  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.90V
+[PHASE] PSI=14.66  dPSI=-0.0112  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11568  rec=210  latch=0b0
+[SEEPROM] Rec#210  addr=11552  used=8%  (722/8191 recs)  AHT=2  radioIdx=10  sig=3  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.91V
+[PHASE] PSI=14.67  dPSI=0.0056  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11584  rec=211  latch=0b0
+[SEEPROM] Rec#211  addr=11568  used=8%  (723/8191 recs)  AHT=2  radioIdx=11  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.82V
+[PHASE] PSI=14.66  dPSI=-0.0077  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11600  rec=212  latch=0b0
+[SEEPROM] Rec#212  addr=11584  used=8%  (724/8191 recs)  AHT=2  radioIdx=12  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.2C  ExtT=22.8C  Batt=6.98V
+[PHASE] PSI=14.66  dPSI=0.0021  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11616  rec=213  latch=0b0
+[SEEPROM] Rec#213  addr=11600  used=8%  (725/8191 recs)  AHT=2  radioIdx=13  sig=2  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.88V
+[PHASE] PSI=14.66  dPSI=-0.0007  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11632  rec=214  latch=0b0
+[SEEPROM] Rec#214  addr=11616  used=8%  (726/8191 recs)  AHT=2  radioIdx=14  sig=2  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.64V
+[PHASE] PSI=14.67  dPSI=0.0021  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11648  rec=215  latch=0b0
+[SEEPROM] Rec#215  addr=11632  used=8%  (727/8191 recs)  AHT=2  radioIdx=15  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.94V
+[PHASE] PSI=14.66  dPSI=-0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11664  rec=216  latch=0b0
+[SEEPROM] Rec#216  addr=11648  used=8%  (728/8191 recs)  AHT=2  radioIdx=16  sig=4  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.88V
+[PHASE] PSI=14.67  dPSI=0.0098  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11680  rec=217  latch=0b0
+[SEEPROM] Rec#217  addr=11664  used=8%  (729/8191 recs)  AHT=2  radioIdx=17  sig=3  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.96V
+[PHASE] PSI=14.67  dPSI=0.0007  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11696  rec=218  latch=0b0
+[SEEPROM] Rec#218  addr=11680  used=8%  (730/8191 recs)  AHT=2  radioIdx=18  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.89V
+[PHASE] PSI=14.66  dPSI=-0.0112  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11712  rec=219  latch=0b0
+[SEEPROM] Rec#219  addr=11696  used=8%  (731/8191 recs)  AHT=2  radioIdx=19  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.98V
+[PHASE] PSI=14.66  dPSI=0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11728  rec=220  latch=0b0
+[SEEPROM] Rec#220  addr=11712  used=8%  (732/8191 recs)  AHT=2  radioIdx=20  sig=5  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.90V
+[PHASE] PSI=14.67  dPSI=0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11744  rec=221  latch=0b0
+[SEEPROM] Rec#221  addr=11728  used=8%  (733/8191 recs)  AHT=2  radioIdx=21  sig=6  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.92V
+[PHASE] PSI=14.66  dPSI=-0.0098  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11760  rec=222  latch=0b0
+[SEEPROM] Rec#222  addr=11744  used=8%  (734/8191 recs)  AHT=2  radioIdx=22  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.8C  Batt=6.96V
+[PHASE] PSI=14.66  dPSI=0.0056  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11776  rec=223  latch=0b0
+[SEEPROM] Rec#223  addr=11760  used=8%  (735/8191 recs)  AHT=2  radioIdx=23  sig=5  flight=0b00000001
+
+[SYS] ╔══════════════════════════════════════════════╗
+[SYS] ║         SYSTEM STATUS SUMMARY               ║
+[SYS] ╚══════════════════════════════════════════════╝
+[SYS] Uptime: 1m 0s
+[SYS] flightStatus = 0b00000001  → BT:OK  Burst:no  Phase:GROUND
+[SYS] SEEPROM: 735 records, 8% used
+[SYS] BT: lastValid=yes  state=IDLE
+[SYS] Iridium: state=IDLE  txOK=0  lastCode=0  nextTx in 239s
+[SYS] Sensors: PSI=14.66  |G|=0.9  AHT20=OK
+[SYS] ──────────────────────────────────────────────
+
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.9C  Batt=6.89V
+[PHASE] PSI=14.66  dPSI=-0.0028  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11792  rec=224  latch=0b0
+[SEEPROM] Rec#224  addr=11776  used=8%  (736/8191 recs)  AHT=2  radioIdx=24  sig=2  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.3C  ExtT=22.9C  Batt=6.86V
+[PHASE] PSI=14.67  dPSI=0.0105  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11808  rec=225  latch=0b0
+[SEEPROM] Rec#225  addr=11792  used=8%  (737/8191 recs)  AHT=2  radioIdx=25  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.8C  Batt=6.75V
+[PHASE] PSI=14.66  dPSI=-0.0063  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11824  rec=226  latch=0b0
+[SEEPROM] Rec#226  addr=11808  used=9%  (738/8191 recs)  AHT=2  radioIdx=26  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.70V
+[PHASE] PSI=14.66  dPSI=0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11840  rec=227  latch=0b0
+[SEEPROM] Rec#227  addr=11824  used=9%  (739/8191 recs)  AHT=2  radioIdx=27  sig=2  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.8C  Batt=6.93V
+[PHASE] PSI=14.66  dPSI=-0.0028  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11856  rec=228  latch=0b0
+[SEEPROM] Rec#228  addr=11840  used=9%  (740/8191 recs)  AHT=2  radioIdx=28  sig=3  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.8C  Batt=6.90V
+[PHASE] PSI=14.67  dPSI=0.0098  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11872  rec=229  latch=0b0
+[SEEPROM] Rec#229  addr=11856  used=9%  (741/8191 recs)  AHT=2  radioIdx=29  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.19  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.86V
+[PHASE] PSI=14.66  dPSI=-0.0154  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11888  rec=230  latch=0b0
+[SEEPROM] Rec#230  addr=11872  used=9%  (742/8191 recs)  AHT=2  radioIdx=30  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.94V
+[PHASE] PSI=14.66  dPSI=0.0056  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11904  rec=231  latch=0b0
+[SEEPROM] Rec#231  addr=11888  used=9%  (743/8191 recs)  AHT=2  radioIdx=31  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.19  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.93V
+[PHASE] PSI=14.66  dPSI=-0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11920  rec=232  latch=0b0
+[SEEPROM] Rec#232  addr=11904  used=9%  (744/8191 recs)  AHT=2  radioIdx=32  sig=3  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.8C  Batt=6.93V
+[PHASE] PSI=14.65  dPSI=-0.0063  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11936  rec=233  latch=0b0
+[SEEPROM] Rec#233  addr=11920  used=9%  (745/8191 recs)  AHT=2  radioIdx=33  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.93V
+[PHASE] PSI=14.66  dPSI=0.0042  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11952  rec=234  latch=0b0
+[SEEPROM] Rec#234  addr=11936  used=9%  (746/8191 recs)  AHT=2  radioIdx=34  sig=4  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.86V
+[PHASE] PSI=14.65  dPSI=-0.0063  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11968  rec=235  latch=0b0
+[SEEPROM] Rec#235  addr=11952  used=9%  (747/8191 recs)  AHT=2  radioIdx=35  sig=2  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.93V
+[PHASE] PSI=14.66  dPSI=0.0077  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=11984  rec=236  latch=0b0
+[SEEPROM] Rec#236  addr=11968  used=9%  (748/8191 recs)  AHT=2  radioIdx=36  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.92V
+[PHASE] PSI=14.66  dPSI=0.0028  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12000  rec=237  latch=0b0
+[SEEPROM] Rec#237  addr=11984  used=9%  (749/8191 recs)  AHT=2  radioIdx=37  sig=4  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.4C  ExtT=22.9C  Batt=6.85V
+[PHASE] PSI=14.65  dPSI=-0.0098  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12016  rec=238  latch=0b0
+[SEEPROM] Rec#238  addr=12000  used=9%  (750/8191 recs)  AHT=2  radioIdx=38  sig=5  flight=0b00000001
+
+[SYS] ╔══════════════════════════════════════════════╗
+[SYS] ║         SYSTEM STATUS SUMMARY               ║
+[SYS] ╚══════════════════════════════════════════════╝
+[SYS] Uptime: 1m 30s
+[SYS] flightStatus = 0b00000001  → BT:OK  Burst:no  Phase:GROUND
+[SYS] SEEPROM: 750 records, 9% used
+[SYS] BT: lastValid=yes  state=IDLE
+[SYS] Iridium: state=IDLE  txOK=0  lastCode=0  nextTx in 209s
+[SYS] Sensors: PSI=14.65  |G|=0.9  AHT20=OK
+[SYS] ──────────────────────────────────────────────
+
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.83V
+[PHASE] PSI=14.66  dPSI=0.0056  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12032  rec=239  latch=0b0
+[SEEPROM] Rec#239  addr=12016  used=9%  (751/8191 recs)  AHT=2  radioIdx=39  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.78V
+[PHASE] PSI=14.66  dPSI=-0.0028  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12048  rec=240  latch=0b0
+[SEEPROM] Rec#240  addr=12032  used=9%  (752/8191 recs)  AHT=2  radioIdx=40  sig=4  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=7.01V
+[PHASE] PSI=14.65  dPSI=-0.0063  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12064  rec=241  latch=0b0
+[SEEPROM] Rec#241  addr=12048  used=9%  (753/8191 recs)  AHT=2  radioIdx=41  sig=5  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.19  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.88V
+[PHASE] PSI=14.67  dPSI=0.0169  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12080  rec=242  latch=0b0
+[SEEPROM] Rec#242  addr=12064  used=9%  (754/8191 recs)  AHT=2  radioIdx=42  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.19  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.82V
+[PHASE] PSI=14.66  dPSI=-0.0084  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12096  rec=243  latch=0b0
+[SEEPROM] Rec#243  addr=12080  used=9%  (755/8191 recs)  AHT=2  radioIdx=43  sig=3  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.96V
+[PHASE] PSI=14.67  dPSI=0.0126  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12112  rec=244  latch=0b0
+[SEEPROM] Rec#244  addr=12096  used=9%  (756/8191 recs)  AHT=2  radioIdx=44  sig=2  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.89V
+[PHASE] PSI=14.67  dPSI=0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12128  rec=245  latch=0b0
+[SEEPROM] Rec#245  addr=12112  used=9%  (757/8191 recs)  AHT=2  radioIdx=45  sig=3  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.86V
+[PHASE] PSI=14.65  dPSI=-0.0183  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12144  rec=246  latch=0b0
+[SEEPROM] Rec#246  addr=12128  used=9%  (758/8191 recs)  AHT=2  radioIdx=46  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.19  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.88V
+[PHASE] PSI=14.66  dPSI=0.0098  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12160  rec=247  latch=0b0
+[SEEPROM] Rec#247  addr=12144  used=9%  (759/8191 recs)  AHT=2  radioIdx=47  sig=2  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.63V
+[PHASE] PSI=14.65  dPSI=-0.0098  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12176  rec=248  latch=0b0
+[SEEPROM] Rec#248  addr=12160  used=9%  (760/8191 recs)  AHT=2  radioIdx=48  sig=3  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=22.9C  Batt=6.85V
+[PHASE] PSI=14.67  dPSI=0.0133  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12192  rec=249  latch=0b0
+[SEEPROM] Rec#249  addr=12176  used=9%  (761/8191 recs)  AHT=2  radioIdx=49  sig=3  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.18  Gy=0.85  |G|=0.87  IntT=22.5C  ExtT=23.0C  Batt=6.73V
+[PHASE] PSI=14.67  dPSI=0.0028  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12208  rec=250  latch=0b0
+[SEEPROM] Rec#250  addr=12192  used=9%  (762/8191 recs)  AHT=2  radioIdx=50  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.23  Gy=0.98  |G|=1.01  IntT=22.5C  ExtT=23.0C  Batt=6.68V
+[PHASE] PSI=14.66  dPSI=-0.0063  |G|=1.0  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12224  rec=251  latch=0b0
+[SEEPROM] Rec#251  addr=12208  used=9%  (763/8191 recs)  AHT=2  radioIdx=51  sig=2  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.17  Gy=0.99  |G|=1.00  IntT=22.5C  ExtT=22.9C  Batt=6.95V
+[PHASE] PSI=14.66  dPSI=-0.0007  |G|=1.0  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12240  rec=252  latch=0b0
+[SEEPROM] Rec#252  addr=12224  used=9%  (764/8191 recs)  AHT=2  radioIdx=52  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.21  Gy=0.98  |G|=1.01  IntT=22.5C  ExtT=22.9C  Batt=6.90V
+[PHASE] PSI=14.66  dPSI=0.0021  |G|=1.0  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12256  rec=253  latch=0b0
+[SEEPROM] Rec#253  addr=12240  used=9%  (765/8191 recs)  AHT=2  radioIdx=53  sig=7  flight=0b00000001
+
+[SYS] ╔══════════════════════════════════════════════╗
+[SYS] ║         SYSTEM STATUS SUMMARY               ║
+[SYS] ╚══════════════════════════════════════════════╝
+[SYS] Uptime: 2m 0s
+[SYS] flightStatus = 0b00000001  → BT:OK  Burst:no  Phase:GROUND
+[SYS] SEEPROM: 765 records, 9% used
+[SYS] BT: lastValid=yes  state=IDLE
+[SYS] Iridium: state=IDLE  txOK=0  lastCode=0  nextTx in 179s
+[SYS] Sensors: PSI=14.66  |G|=1.0  AHT20=OK
+[SYS] ──────────────────────────────────────────────
+
+[ANALOG] PSI=14.66  Gx=0.19  Gy=0.99  |G|=1.01  IntT=22.6C  ExtT=22.9C  Batt=6.94V
+[PHASE] PSI=14.66  dPSI=-0.0014  |G|=1.0  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12272  rec=254  latch=0b0
+[SEEPROM] Rec#254  addr=12256  used=9%  (766/8191 recs)  AHT=2  radioIdx=54  sig=6  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.26  Gy=0.96  |G|=1.00  IntT=22.6C  ExtT=23.0C  Batt=6.93V
+[PHASE] PSI=14.66  dPSI=0.0000  |G|=1.0  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12288  rec=255  latch=0b0
+[SEEPROM] Rec#255  addr=12272  used=9%  (767/8191 recs)  AHT=2  radioIdx=55  sig=4  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.15  Gy=0.28  |G|=0.32  IntT=22.6C  ExtT=23.0C  Batt=6.85V
+[PHASE] PSI=14.65  dPSI=-0.0084  |G|=0.3  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12304  rec=0  latch=0b0
+[SEEPROM] Rec#0  addr=12288  used=9%  (768/8191 recs)  AHT=2  radioIdx=56  sig=6  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.10  Gy=0.09  |G|=0.13  IntT=22.6C  ExtT=23.0C  Batt=6.88V
+[PHASE] PSI=14.66  dPSI=0.0035  |G|=0.1  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12320  rec=1  latch=0b0
+[SEEPROM] Rec#1  addr=12304  used=9%  (769/8191 recs)  AHT=2  radioIdx=57  sig=6  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.12  Gy=0.11  |G|=0.16  IntT=22.6C  ExtT=23.0C  Batt=6.86V
+[PHASE] PSI=14.66  dPSI=0.0014  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12336  rec=2  latch=0b0
+[SEEPROM] Rec#2  addr=12320  used=9%  (770/8191 recs)  AHT=2  radioIdx=58  sig=5  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.11  Gy=0.12  |G|=0.17  IntT=22.6C  ExtT=23.0C  Batt=6.85V
+[PHASE] PSI=14.65  dPSI=-0.0077  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12352  rec=3  latch=0b0
+[SEEPROM] Rec#3  addr=12336  used=9%  (771/8191 recs)  AHT=2  radioIdx=59  sig=4  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.11  Gy=0.13  |G|=0.17  IntT=22.6C  ExtT=23.0C  Batt=6.88V
+[PHASE] PSI=14.67  dPSI=0.0183  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12368  rec=4  latch=0b0
+[SEEPROM] Rec#4  addr=12352  used=9%  (772/8191 recs)  AHT=2  radioIdx=60  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.12  Gy=0.13  |G|=0.18  IntT=22.6C  ExtT=23.0C  Batt=6.81V
+[PHASE] PSI=14.66  dPSI=-0.0077  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12384  rec=5  latch=0b0
+[SEEPROM] Rec#5  addr=12368  used=9%  (773/8191 recs)  AHT=2  radioIdx=61  sig=3  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.13  Gy=0.17  |G|=0.22  IntT=22.6C  ExtT=23.1C  Batt=6.97V
+[PHASE] PSI=14.66  dPSI=-0.0021  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12400  rec=6  latch=0b0
+[SEEPROM] Rec#6  addr=12384  used=9%  (774/8191 recs)  AHT=2  radioIdx=62  sig=5  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.13  Gy=0.17  |G|=0.21  IntT=22.6C  ExtT=23.1C  Batt=6.94V
+[PHASE] PSI=14.67  dPSI=0.0070  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12416  rec=7  latch=0b0
+[SEEPROM] Rec#7  addr=12400  used=9%  (775/8191 recs)  AHT=2  radioIdx=63  sig=7  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.14  Gy=0.18  |G|=0.23  IntT=22.7C  ExtT=23.1C  Batt=6.67V
+[PHASE] PSI=14.65  dPSI=-0.0126  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12432  rec=8  latch=0b0
+[SEEPROM] Rec#8  addr=12416  used=9%  (776/8191 recs)  AHT=2  radioIdx=64  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.13  Gy=0.17  |G|=0.21  IntT=22.7C  ExtT=23.1C  Batt=6.86V
+[PHASE] PSI=14.66  dPSI=0.0077  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12448  rec=9  latch=0b0
+[SEEPROM] Rec#9  addr=12432  used=9%  (777/8191 recs)  AHT=2  radioIdx=65  sig=3  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.13  Gy=0.19  |G|=0.23  IntT=22.7C  ExtT=23.1C  Batt=6.84V
+[PHASE] PSI=14.65  dPSI=-0.0077  |G|=0.2  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12464  rec=10  latch=0b0
+[SEEPROM] Rec#10  addr=12448  used=9%  (778/8191 recs)  AHT=2  radioIdx=66  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.33  Gy=0.74  |G|=0.81  IntT=22.7C  ExtT=23.1C  Batt=6.94V
+[PHASE] PSI=14.66  dPSI=0.0021  |G|=0.8  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12480  rec=11  latch=0b0
+[SEEPROM] Rec#11  addr=12464  used=9%  (779/8191 recs)  AHT=2  radioIdx=67  sig=4  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.35  Gy=0.83  |G|=0.90  IntT=22.7C  ExtT=23.1C  Batt=6.70V
+[PHASE] PSI=14.67  dPSI=0.0126  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12496  rec=12  latch=0b0
+[SEEPROM] Rec#12  addr=12480  used=9%  (780/8191 recs)  AHT=2  radioIdx=68  sig=4  flight=0b00000001
+
+[SYS] ╔══════════════════════════════════════════════╗
+[SYS] ║         SYSTEM STATUS SUMMARY               ║
+[SYS] ╚══════════════════════════════════════════════╝
+[SYS] Uptime: 2m 30s
+[SYS] flightStatus = 0b00000001  → BT:OK  Burst:no  Phase:GROUND
+[SYS] SEEPROM: 780 records, 9% used
+[SYS] BT: lastValid=yes  state=IDLE
+[SYS] Iridium: state=IDLE  txOK=0  lastCode=0  nextTx in 149s
+[SYS] Sensors: PSI=14.67  |G|=0.9  AHT20=OK
+[SYS] ──────────────────────────────────────────────
+
+[ANALOG] PSI=14.66  Gx=0.21  Gy=0.85  |G|=0.87  IntT=22.8C  ExtT=23.1C  Batt=6.66V
+[PHASE] PSI=14.66  dPSI=-0.0091  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12512  rec=13  latch=0b0
+[SEEPROM] Rec#13  addr=12496  used=9%  (781/8191 recs)  AHT=2  radioIdx=69  sig=2  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.21  Gy=0.85  |G|=0.87  IntT=22.8C  ExtT=23.1C  Batt=6.84V
+[PHASE] PSI=14.66  dPSI=0.0014  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12528  rec=14  latch=0b0
+[SEEPROM] Rec#14  addr=12512  used=9%  (782/8191 recs)  AHT=2  radioIdx=70  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.21  Gy=0.85  |G|=0.87  IntT=22.8C  ExtT=23.1C  Batt=6.69V
+[PHASE] PSI=14.66  dPSI=-0.0021  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12544  rec=15  latch=0b0
+[SEEPROM] Rec#15  addr=12528  used=9%  (783/8191 recs)  AHT=2  radioIdx=71  sig=3  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.21  Gy=0.85  |G|=0.87  IntT=22.8C  ExtT=23.1C  Batt=6.63V
+[PHASE] PSI=14.65  dPSI=-0.0105  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12560  rec=16  latch=0b0
+[SEEPROM] Rec#16  addr=12544  used=9%  (784/8191 recs)  AHT=2  radioIdx=72  sig=4  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.09  Gy=0.85  |G|=0.85  IntT=22.8C  ExtT=23.1C  Batt=6.81V
+[PHASE] PSI=14.67  dPSI=0.0169  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12576  rec=17  latch=0b0
+[SEEPROM] Rec#17  addr=12560  used=9%  (785/8191 recs)  AHT=2  radioIdx=73  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=-0.00  Gy=0.85  |G|=0.85  IntT=22.8C  ExtT=23.1C  Batt=6.80V
+[PHASE] PSI=14.66  dPSI=-0.0042  |G|=0.8  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12592  rec=18  latch=0b0
+[SEEPROM] Rec#18  addr=12576  used=9%  (786/8191 recs)  AHT=2  radioIdx=74  sig=6  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.27  Gy=0.88  |G|=0.92  IntT=22.8C  ExtT=23.1C  Batt=6.99V
+[PHASE] PSI=14.66  dPSI=-0.0035  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12608  rec=19  latch=0b0
+[SEEPROM] Rec#19  addr=12592  used=9%  (787/8191 recs)  AHT=2  radioIdx=75  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.28  Gy=0.89  |G|=0.94  IntT=22.8C  ExtT=23.1C  Batt=7.00V
+[PHASE] PSI=14.66  dPSI=0.0056  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12624  rec=20  latch=0b0
+[SEEPROM] Rec#20  addr=12608  used=9%  (788/8191 recs)  AHT=2  radioIdx=76  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.52  Gy=0.88  |G|=1.02  IntT=22.8C  ExtT=23.1C  Batt=6.84V
+[PHASE] PSI=14.66  dPSI=-0.0035  |G|=1.0  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12640  rec=21  latch=0b0
+[SEEPROM] Rec#21  addr=12624  used=9%  (789/8191 recs)  AHT=2  radioIdx=77  sig=9  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.26  Gy=0.89  |G|=0.93  IntT=22.9C  ExtT=23.1C  Batt=6.90V
+[PHASE] PSI=14.66  dPSI=0.0007  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12656  rec=22  latch=0b0
+[SEEPROM] Rec#22  addr=12640  used=9%  (790/8191 recs)  AHT=2  radioIdx=78  sig=8  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.08  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.2C  Batt=6.74V
+[PHASE] PSI=14.66  dPSI=-0.0049  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12672  rec=23  latch=0b0
+[SEEPROM] Rec#23  addr=12656  used=9%  (791/8191 recs)  AHT=2  radioIdx=79  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.08  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.2C  Batt=6.96V
+[PHASE] PSI=14.66  dPSI=-0.0007  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12688  rec=24  latch=0b0
+[SEEPROM] Rec#24  addr=12672  used=9%  (792/8191 recs)  AHT=2  radioIdx=80  sig=4  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.07  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.2C  Batt=6.93V
+[PHASE] PSI=14.67  dPSI=0.0140  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12704  rec=25  latch=0b0
+[SEEPROM] Rec#25  addr=12688  used=9%  (793/8191 recs)  AHT=2  radioIdx=81  sig=2  flight=0b00000001
+[ANALOG] PSI=14.67  Gx=0.06  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.2C  Batt=6.91V
+[PHASE] PSI=14.67  dPSI=-0.0035  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12720  rec=26  latch=0b0
+[SEEPROM] Rec#26  addr=12704  used=9%  (794/8191 recs)  AHT=2  radioIdx=82  sig=3  flight=0b00000001
+[ANALOG] PSI=14.65  Gx=0.06  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.2C  Batt=6.82V
+[PHASE] PSI=14.65  dPSI=-0.0140  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12736  rec=27  latch=0b0
+[SEEPROM] Rec#27  addr=12720  used=9%  (795/8191 recs)  AHT=2  radioIdx=83  sig=4  flight=0b00000001
+
+[SYS] ╔══════════════════════════════════════════════╗
+[SYS] ║         SYSTEM STATUS SUMMARY               ║
+[SYS] ╚══════════════════════════════════════════════╝
+[SYS] Uptime: 3m 0s
+[SYS] flightStatus = 0b00000001  → BT:OK  Burst:no  Phase:GROUND
+[SYS] SEEPROM: 795 records, 9% used
+[SYS] BT: lastValid=yes  state=WAIT
+[SYS] Iridium: state=IDLE  txOK=0  lastCode=0  nextTx in 119s
+[SYS] Sensors: PSI=14.65  |G|=0.9  AHT20=OK
+[SYS] ──────────────────────────────────────────────
+
+[ANALOG] PSI=14.66  Gx=0.04  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.2C  Batt=6.88V
+[PHASE] PSI=14.66  dPSI=0.0126  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12752  rec=28  latch=0b0
+[SEEPROM] Rec#28  addr=12736  used=9%  (796/8191 recs)  AHT=2  radioIdx=84  sig=4  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=-0.01  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.2C  Batt=6.67V
+[PHASE] PSI=14.66  dPSI=-0.0077  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12768  rec=29  latch=0b0
+[SEEPROM] Rec#29  addr=12752  used=9%  (797/8191 recs)  AHT=2  radioIdx=85  sig=5  flight=0b00000001
+[ANALOG] PSI=14.66  Gx=0.00  Gy=0.92  |G|=0.92  IntT=22.9C  ExtT=23.1C  Batt=6.93V
+[PHASE] PSI=14.66  dPSI=0.0000  |G|=0.9  air=0  burst=0  land=0  status=0b00000001
+[SEEPROM-HDR] Updated: addr=12784  rec=30  latch=0b0
+[SEEPROM] Rec#30  addr=12768  used=9%  (798/8191 recs)  AHT=2  radioIdx=86  sig=9  flight=0b00000001
+
+ Glendale Community College Flight Data Recorder
+
+ Welcome Spacejunkies members: Adrian, Caden, Irwin*, James, and Justin
+
+
+ The library is configured for the second semester.
+
+   M    The full menu.
+   m    The short menu.
+   D    Display all port voltages.
+   P    Prepare for launch!
+   A    Display all data live. Enter A again to stop. Works only while in flight state.
+   S    While in flight state, stop data collection and prepare to output data.
+   O    Output formatted data file. Press S key to stop it.
+   o    Output unformatted data file.
+   H    Diagnostic: Output system information.
+   T    Generate a test pattern with voltages and GNSS data usable by Excel.
+   t    Generate a test pattern of sequential numbers usable by Excel.
+   R    Reboot in preparation for download.
+   r    Reset processor.
+   C    Clear all recorded errors.
+ ALT+ES Clear Tera Term screen.
+ ALT+FL Name Tera Term receiving file and start receiving data.
+        Enter file name and press Save.
+ ALT+FQ Close Tera Term receiving file.
+
+
+What is your bidding, Spacejunkies? [ANALOG] PSI=14.65  Gx=-0.07  Gy=0.93  |G|=0.93  IntT=23.4C  ExtT=23.4C  Batt=6.74V
+[PHASE] PSI=14.65  dPSI=-0.0112  |G|=0.9  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13216  rec=57  latch=0b0
+[SEEPROM] Rec#57  addr=13200  used=10%  (825/8191 recs)  AHT=2  radioIdx=113  sig=3  flight=0b00000010
+
+[SYS] ╔══════════════════════════════════════════════╗
+[SYS] ║         SYSTEM STATUS SUMMARY               ║
+[SYS] ╚══════════════════════════════════════════════╝
+[SYS] Uptime: 4m 0s
+[SYS] flightStatus = 0b00000010  → BT:FAIL  Burst:no  Phase:GROUND
+[SYS] SEEPROM: 825 records, 10% used
+[SYS] BT: lastValid=yes  state=WAIT
+[SYS] Iridium: state=IDLE  txOK=0  lastCode=0  nextTx in 59s
+[SYS] Sensors: PSI=14.65  |G|=0.9  AHT20=OK
+[SYS] ──────────────────────────────────────────────
+
+[ANALOG] PSI=14.66  Gx=-0.07  Gy=0.93  |G|=0.93  IntT=23.4C  ExtT=23.4C  Batt=6.85V
+[PHASE] PSI=14.66  dPSI=0.0098  |G|=0.9  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13232  rec=58  latch=0b0
+[SEEPROM] Rec#58  addr=13216  used=10%  (826/8191 recs)  AHT=2  radioIdx=114  sig=4  flight=0b00000010
+[ANALOG] PSI=14.64  Gx=-0.07  Gy=0.93  |G|=0.93  IntT=23.4C  ExtT=23.4C  Batt=6.80V
+[PHASE] PSI=14.64  dPSI=-0.0133  |G|=0.9  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13248  rec=59  latch=0b0
+[SEEPROM] Rec#59  addr=13232  used=10%  (827/8191 recs)  AHT=2  radioIdx=115  sig=6  flight=0b00000010
+[ANALOG] PSI=14.67  Gx=-0.07  Gy=0.93  |G|=0.93  IntT=23.4C  ExtT=23.4C  Batt=6.95V
+[PHASE] PSI=14.67  dPSI=0.0253  |G|=0.9  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13264  rec=60  latch=0b0
+[SEEPROM] Rec#60  addr=13248  used=10%  (828/8191 recs)  AHT=2  radioIdx=116  sig=7  flight=0b00000010
+[ANALOG] PSI=14.67  Gx=-0.08  Gy=0.95  |G|=0.95  IntT=23.4C  ExtT=23.4C  Batt=6.83V
+[PHASE] PSI=14.67  dPSI=-0.0021  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13280  rec=61  latch=0b0
+[SEEPROM] Rec#61  addr=13264  used=10%  (829/8191 recs)  AHT=2  radioIdx=117  sig=2  flight=0b00000010
+[ANALOG] PSI=14.66  Gx=0.06  Gy=0.89  |G|=0.89  IntT=23.4C  ExtT=23.4C  Batt=6.88V
+[PHASE] PSI=14.66  dPSI=-0.0105  |G|=0.9  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13296  rec=62  latch=0b0
+[SEEPROM] Rec#62  addr=13280  used=10%  (830/8191 recs)  AHT=2  radioIdx=118  sig=3  flight=0b00000010
+[ANALOG] PSI=14.66  Gx=-0.06  Gy=0.87  |G|=0.87  IntT=23.5C  ExtT=23.4C  Batt=6.84V
+[PHASE] PSI=14.66  dPSI=0.0042  |G|=0.9  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13312  rec=63  latch=0b0
+[SEEPROM] Rec#63  addr=13296  used=10%  (831/8191 recs)  AHT=2  radioIdx=119  sig=3  flight=0b00000010
+[ANALOG] PSI=14.65  Gx=-0.07  Gy=0.91  |G|=0.91  IntT=23.5C  ExtT=23.4C  Batt=6.79V
+[PHASE] PSI=14.65  dPSI=-0.0084  |G|=0.9  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13328  rec=64  latch=0b0
+[SEEPROM] Rec#64  addr=13312  used=10%  (832/8191 recs)  AHT=2  radioIdx=120  sig=4  flight=0b00000010
+[ANALOG] PSI=14.67  Gx=0.63  Gy=0.81  |G|=1.03  IntT=23.5C  ExtT=23.4C  Batt=6.88V
+[PHASE] PSI=14.67  dPSI=0.0119  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13344  rec=65  latch=0b0
+[SEEPROM] Rec#65  addr=13328  used=10%  (833/8191 recs)  AHT=2  radioIdx=121  sig=5  flight=0b00000010
+[ANALOG] PSI=14.67  Gx=0.62  Gy=0.80  |G|=1.01  IntT=23.5C  ExtT=23.4C  Batt=6.78V
+[PHASE] PSI=14.67  dPSI=0.0042  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13360  rec=66  latch=0b0
+[SEEPROM] Rec#66  addr=13344  used=10%  (834/8191 recs)  AHT=2  radioIdx=121  sig=5  flight=0b00000010
+[ANALOG] PSI=14.65  Gx=0.63  Gy=0.80  |G|=1.02  IntT=23.6C  ExtT=23.4C  Batt=6.64V
+[PHASE] PSI=14.65  dPSI=-0.0239  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13376  rec=67  latch=0b0
+[SEEPROM] Rec#67  addr=13360  used=10%  (835/8191 recs)  AHT=2  radioIdx=122  sig=5  flight=0b00000010
+[ANALOG] PSI=14.67  Gx=0.63  Gy=0.80  |G|=1.01  IntT=23.6C  ExtT=23.4C  Batt=6.86V
+[PHASE] PSI=14.67  dPSI=0.0197  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13392  rec=68  latch=0b0
+[SEEPROM] Rec#68  addr=13376  used=10%  (836/8191 recs)  AHT=2  radioIdx=123  sig=5  flight=0b00000010
+ m
+
+ Glendale Community College Flight Data Recorder
+
+ Welcome Spacejunkies members: Adrian, Caden, Irwin*, James, and Justin
+
+
+ The library is configured for the second semester.
+
+   M    The full menu.
+   m    The short menu.
+   D    Display all port voltages.
+   P    Prepare for launch!
+   A    Display all data live. Enter A again to stop. Works only while in flight state.
+   S    While in flight state, stop data collection and prepare to output data.
+   O    Output formatted data file. Press S key to stop it.
+   o    Output unformatted data file.
+   H    Diagnostic: Output system information.
+   T    Generate a test pattern with voltages and GNSS data usable by Excel.
+   t    Generate a test pattern of sequential numbers usable by Excel.
+   R    Reboot in preparation for download.
+   r    Reset processor.
+   C    Clear all recorded errors.
+ ALT+ES Clear Tera Term screen.
+ ALT+FL Name Tera Term receiving file and start receiving data.
+        Enter file name and press Save.
+ ALT+FQ Close Tera Term receiving file.
+
+
+What is your bidding, Spacejunkies? [ANALOG] PSI=14.66  Gx=0.63  Gy=0.80  |G|=1.01  IntT=23.6C  ExtT=23.4C  Batt=6.74V
+[PHASE] PSI=14.66  dPSI=-0.0070  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13408  rec=69  latch=0b0
+[SEEPROM] Rec#69  addr=13392  used=10%  (837/8191 recs)  AHT=2  radioIdx=124  sig=5  flight=0b00000010
+[ANALOG] PSI=14.66  Gx=0.63  Gy=0.80  |G|=1.01  IntT=23.6C  ExtT=23.4C  Batt=6.92V
+[PHASE] PSI=14.66  dPSI=0.0014  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13424  rec=70  latch=0b0
+[SEEPROM] Rec#70  addr=13408  used=10%  (838/8191 recs)  AHT=2  radioIdx=125  sig=2  flight=0b00000010
+[ANALOG] PSI=14.66  Gx=0.63  Gy=0.80  |G|=1.01  IntT=23.6C  ExtT=23.4C  Batt=6.92V
+[PHASE] PSI=14.66  dPSI=0.0007  |G|=1.0  air=0  burst=0  land=0  status=0b00000010
+[SEEPROM-HDR] Updated: addr=13440  rec=71  latch=0b0
+[SEEPROM] Rec#71  addr=13424  used=10%  (839/8191 recs)  AHT=2  radioIdx=126  sig=3  flight=0b00000010
