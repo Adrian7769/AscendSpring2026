@@ -3,3 +3,17 @@ Goals: Automate Google Email Interaction in order to view view real time data
 Features: Graphical UI,
 
 Requirements: 
+
+/libs
+curl 
+nlohmann
+
+/env
+client_secret.json
+token_cache.json
+
+/logs
+debug.log
+
+/root 
+libcurl-x64.dll in project root
