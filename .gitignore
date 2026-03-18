@@ -2,3 +2,7 @@
 client_secret.json
 token_cache.json
 main.exe
+/libs
+/logs
+libcurl-x64.dll
+/env

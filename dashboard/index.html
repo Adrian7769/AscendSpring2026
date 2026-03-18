@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASCEND // Flight Telemetry</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header class="status-bar">
+        <div class="sb-left">
+            <span class="logo">ASCEND</span>
+            <span class="logo-sub">Flight Telemetry</span>
+        </div>
+        <div class="sb-right">
+            <span class="sb-item"><span class="dot live"></span> LIVE</span>
+            <span class="sb-item">RX <span id="lastUpdate">--:--:--</span></span>
+            <span class="sb-item">MOMSN <span class="val" id="totalRecords">0</span></span>
+            <span class="sb-item">UP <span id="uptime">00:00:00</span></span>
+        </div>
+    </header>
+
+    <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>Waiting for telemetry&hellip;</p>
+    </div>
+
+    <main id="dashboard" style="display:none;">
+
+        <!-- Phase banner -->
+        <div class="phase-banner" id="phaseBanner">
+            <span class="phase-label">PHASE</span>
+            <span class="phase-value" id="flightPhase">PRE-LAUNCH</span>
+            <div class="phase-flags">
+                <span class="flag off" id="flagBtOk">BT OK</span>
+                <span class="flag off" id="flagBtFail">BT FAIL</span>
+                <span class="flag off" id="flagAscent">ASCENT</span>
+                <span class="flag off" id="flagDescent">DESCENT</span>
+                <span class="flag off" id="flagBurst">BURST</span>
+                <span class="flag off" id="flagLanding">LANDED</span>
+            </div>
+        </div>
+
+        <!-- Map + Info sidebar -->
+        <div class="row row-top">
+            <section class="card map-card">
+                <h2>Flight Path</h2>
+                <div id="map"></div>
+            </section>
+            <div class="col sidebar">
+                <section class="card compact">
+                    <h2>Position <span class="gnss-badge off" id="gnssBadge">NO FIX</span></h2>
+                    <div class="kv"><span class="k">LAT</span><span class="v" id="gpsLat">--</span></div>
+                    <div class="kv"><span class="k">LON</span><span class="v" id="gpsLon">--</span></div>
+                    <div class="kv"><span class="k">ALT</span><span class="v"><span id="gpsAlt">--</span> <small id="altUnit">ft</small></span></div>
+                    <div class="kv"><span class="k">UTC</span><span class="v" id="gpsUtc">--:--:--</span></div>
+                </section>
+                <section class="card compact">
+                    <h2>Modem</h2>
+                    <div class="kv"><span class="k">IMEI</span><span class="v sm" id="modemImei">--</span></div>
+                    <div class="kv"><span class="k">STATUS</span><span class="v" id="modemStatus">--</span></div>
+                    <div class="kv"><span class="k">PREV</span><span class="v" id="modemPrev">--</span></div>
+                    <div class="kv"><span class="k">TXCOUNT</span><span class="v" id="modemTxCount">--</span></div>
+                    <div class="kv"><span class="k">HEADER</span><span class="v" id="headerInfo">--</span></div>
+                </section>
+                <section class="card compact">
+                    <h2>Radio Scanner</h2>
+                    <div class="kv"><span class="k">FREQ</span><span class="v" id="radioFreq">--</span></div>
+                    <div class="kv"><span class="k">SIGNAL</span><span class="v" id="radioSignal">--</span></div>
+                    <div class="kv"><span class="k">MODE</span><span class="v" id="radioMode">--</span></div>
+                </section>
+            </div>
+        </div>
+
+        <!-- Sensor gauges -->
+        <section class="card">
+            <h2>Sensors</h2>
+            <div class="sensor-grid">
+                <div class="gauge">
+                    <div class="gauge-label">AHT20 Temp</div>
+                    <div class="gauge-value" id="ahtTemp">--</div>
+                    <div class="gauge-unit">°C</div>
+                    <div class="gauge-bar"><div class="gauge-fill temp" id="ahtTempBar"></div></div>
+                </div>
+                <div class="gauge">
+                    <div class="gauge-label">AHT20 Humidity</div>
+                    <div class="gauge-value" id="ahtHum">--</div>
+                    <div class="gauge-unit">% RH</div>
+                    <div class="gauge-bar"><div class="gauge-fill hum" id="ahtHumBar"></div></div>
+                </div>
+                <div class="gauge">
+                    <div class="gauge-label">Int. Temp</div>
+                    <div class="gauge-value" id="intTemp">--</div>
+                    <div class="gauge-unit">°C</div>
+                    <div class="gauge-bar"><div class="gauge-fill temp" id="intTempBar"></div></div>
+                </div>
+                <div class="gauge">
+                    <div class="gauge-label">Ext. Temp</div>
+                    <div class="gauge-value" id="extTemp">--</div>
+                    <div class="gauge-unit">°C</div>
+                    <div class="gauge-bar"><div class="gauge-fill temp" id="extTempBar"></div></div>
+                </div>
+                <div class="gauge">
+                    <div class="gauge-label">Master Batt</div>
+                    <div class="gauge-value" id="masterBatt">--</div>
+                    <div class="gauge-unit">V</div>
+                    <div class="gauge-bar"><div class="gauge-fill batt" id="masterBattBar"></div></div>
+                </div>
+                <div class="gauge">
+                    <div class="gauge-label">Slave Batt</div>
+                    <div class="gauge-value" id="slaveBatt">--</div>
+                    <div class="gauge-unit">V</div>
+                    <div class="gauge-bar"><div class="gauge-fill batt" id="slaveBattBar"></div></div>
+                </div>
+                <div class="gauge">
+                    <div class="gauge-label">Altitude</div>
+                    <div class="gauge-value" id="altGauge">--</div>
+                    <div class="gauge-unit" id="altGaugeUnit">ft</div>
+                    <div class="gauge-bar"><div class="gauge-fill alt" id="altBar"></div></div>
+                </div>
+                <div class="gauge">
+                    <div class="gauge-label">AHT20 Status</div>
+                    <div class="gauge-value" id="ahtStatus">--</div>
+                    <div class="gauge-unit">&nbsp;</div>
+                    <div class="gauge-bar"><div class="gauge-fill aht" id="ahtStatusBar"></div></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Charts -->
+        <div class="row charts-row">
+            <section class="card chart-card">
+                <h2>Altitude</h2>
+                <div class="chart-wrap"><canvas id="altChart"></canvas></div>
+            </section>
+            <section class="card chart-card">
+                <h2>Temperature</h2>
+                <div class="chart-wrap"><canvas id="tempChart"></canvas></div>
+            </section>
+            <section class="card chart-card">
+                <h2>Battery &amp; Humidity</h2>
+                <div class="chart-wrap"><canvas id="battChart"></canvas></div>
+            </section>
+        </div>
+
+        <!-- Hex dump -->
+        <section class="card">
+            <h2>Raw Hex <small id="hexMeta"></small></h2>
+            <div class="hex-legend">
+                <span class="hl hl-hdr">HDR</span>
+                <span class="hl hl-ser">SER</span>
+                <span class="hl hl-status">STATUS</span>
+                <span class="hl hl-gnss">GNSS</span>
+                <span class="hl hl-i2c">I2C</span>
+                <span class="hl hl-rsv">RSVD</span>
+                <span class="hl hl-analog">ANALOG</span>
+                <span class="hl hl-modem">MODEM</span>
+            </div>
+            <div class="hex-bytes" id="hexBytes"></div>
+        </section>
+
+        <!-- Log panel -->
+        <section class="card log-card">
+            <div class="log-header-row">
+                <h2>System Log</h2>
+                <div class="log-controls">
+                    <button class="log-filter active" data-level="ALL">ALL</button>
+                    <button class="log-filter" data-level="DEBUG">DBG</button>
+                    <button class="log-filter" data-level="INFO">INF</button>
+                    <button class="log-filter" data-level="WARNING">WRN</button>
+                    <button class="log-filter" data-level="ERROR">ERR</button>
+                </div>
+                <div class="log-stats">
+                    <span>lines: <span id="logTotal">0</span></span>
+                    <span>shown: <span id="logFiltered">0</span></span>
+                    <span class="log-auto-scroll" id="autoScrollIndicator">AUTO-SCROLL ●</span>
+                </div>
+            </div>
+            <div class="log-content" id="logContent">
+                <div class="log-entry INFO">
+                    <span class="log-ts">--:--:--</span>
+                    <span class="log-lvl INFO">[INF]</span>
+                    <span class="log-msg">waiting for log stream...</span>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="dashboard.js"></script>
+</body>
+</html>

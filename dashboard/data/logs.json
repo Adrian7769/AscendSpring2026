@@ -1,0 +1,3006 @@
+{
+  "lastUpdated": 1773809891,
+  "logs": [
+    {
+      "epochTime": 1773784924,
+      "level": "INFO",
+      "message": "Monitoring started, polling every 1 minutes...",
+      "timestamp": "2026-03-17 15:02:04"
+    },
+    {
+      "epochTime": 1773784924,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773784924 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:02:04"
+    },
+    {
+      "epochTime": 1773784924,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:02:04"
+    },
+    {
+      "epochTime": 1773784924,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:02:04"
+    },
+    {
+      "epochTime": 1773784984,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773784924 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:03:04"
+    },
+    {
+      "epochTime": 1773784985,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:03:05"
+    },
+    {
+      "epochTime": 1773784985,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:03:05"
+    },
+    {
+      "epochTime": 1773785045,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773784985 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:04:05"
+    },
+    {
+      "epochTime": 1773785045,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:04:05"
+    },
+    {
+      "epochTime": 1773785045,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:04:05"
+    },
+    {
+      "epochTime": 1773785105,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785045 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:05:05"
+    },
+    {
+      "epochTime": 1773785105,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:05:05"
+    },
+    {
+      "epochTime": 1773785105,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:05:05"
+    },
+    {
+      "epochTime": 1773785165,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785105 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:06:05"
+    },
+    {
+      "epochTime": 1773785165,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:06:05"
+    },
+    {
+      "epochTime": 1773785165,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:06:05"
+    },
+    {
+      "epochTime": 1773785225,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785165 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:07:05"
+    },
+    {
+      "epochTime": 1773785226,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:07:06"
+    },
+    {
+      "epochTime": 1773785226,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:07:06"
+    },
+    {
+      "epochTime": 1773785286,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785226 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:08:06"
+    },
+    {
+      "epochTime": 1773785286,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:08:06"
+    },
+    {
+      "epochTime": 1773785286,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:08:06"
+    },
+    {
+      "epochTime": 1773785346,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785286 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:09:06"
+    },
+    {
+      "epochTime": 1773785346,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:09:06"
+    },
+    {
+      "epochTime": 1773785346,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:09:06"
+    },
+    {
+      "epochTime": 1773785406,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785346 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:10:06"
+    },
+    {
+      "epochTime": 1773785406,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:10:06"
+    },
+    {
+      "epochTime": 1773785406,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:10:06"
+    },
+    {
+      "epochTime": 1773785466,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785406 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:11:06"
+    },
+    {
+      "epochTime": 1773785467,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:11:07"
+    },
+    {
+      "epochTime": 1773785467,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:11:07"
+    },
+    {
+      "epochTime": 1773785527,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785467 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:12:07"
+    },
+    {
+      "epochTime": 1773785527,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:12:07"
+    },
+    {
+      "epochTime": 1773785527,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:12:07"
+    },
+    {
+      "epochTime": 1773785587,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785527 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:13:07"
+    },
+    {
+      "epochTime": 1773785587,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:13:07"
+    },
+    {
+      "epochTime": 1773785587,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:13:07"
+    },
+    {
+      "epochTime": 1773785647,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785587 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:14:07"
+    },
+    {
+      "epochTime": 1773785647,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:14:07"
+    },
+    {
+      "epochTime": 1773785647,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:14:07"
+    },
+    {
+      "epochTime": 1773785707,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785647 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:15:07"
+    },
+    {
+      "epochTime": 1773785708,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:15:08"
+    },
+    {
+      "epochTime": 1773785708,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:15:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785708 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "Decoding hex payload: 524203561101160f1221272500700b110100036152ca570354... (50 bytes)",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Flight Status: 0x01 -> PRE-LAUNCH | BT:OK",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  UTC: 22:15:18",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Altitude: 221522 feet",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Alt units byte=202 (expected 0 or 1)",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Altitude=221522 out of range",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  GNSS Valid: NO — junk data, will not plot",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  AHT20: 20.820236% RH, 42.859650 C (109.147369 F) [OK]",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Radio: 105.500000 MHz, signal=2/15 STEREO",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Master Batt: 7.438167 V",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.572763 V",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Int Temp:    24.118435 C",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Ext Temp:    32.890072 C",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "  Modem: current=13 (Code 13), prev=13, txOK=0",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 81",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 81)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T22:15:53Z\nIridium Lat:     33.694\nIridium Lon:     -112.178\nIridium CEP:     8\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x01]\n  BT RX: OK  Burst: no  Landing: no\n\nGNSS: (INVALID — junk data)\n  UTC:       22:15:18\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  221522 feet\n\nI2C Sensors:\n  AHT20:     20.82% RH, 42.86 C (109.15 F) [OK]\n  Radio:     105.50 MHz, signal 2/15 STEREO\n\nAnalog Sensors:\n  Master Battery: 7.44 V\n  Slave Battery: 0.57 V\n  Internal Temperature: 24.12 °C (75°F)\n  External Temperature: 32.89 °C (91°F)\n\nModem:\n  Current:   13 — Code 13\n  Previous:  13 — Code 13\n  TX Count:  0\n\n",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "Exported 1 records to JSON",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785768,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:16:08"
+    },
+    {
+      "epochTime": 1773785828,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785768 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:17:08"
+    },
+    {
+      "epochTime": 1773785828,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:17:08"
+    },
+    {
+      "epochTime": 1773785828,
+      "level": "INFO",
+      "message": "Exported 1 records to JSON",
+      "timestamp": "2026-03-17 15:17:08"
+    },
+    {
+      "epochTime": 1773785828,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:17:08"
+    },
+    {
+      "epochTime": 1773785888,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785828 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:18:08"
+    },
+    {
+      "epochTime": 1773785889,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:18:09"
+    },
+    {
+      "epochTime": 1773785889,
+      "level": "INFO",
+      "message": "Exported 1 records to JSON",
+      "timestamp": "2026-03-17 15:18:09"
+    },
+    {
+      "epochTime": 1773785889,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:18:09"
+    },
+    {
+      "epochTime": 1773785949,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785889 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:19:09"
+    },
+    {
+      "epochTime": 1773785949,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:19:09"
+    },
+    {
+      "epochTime": 1773785949,
+      "level": "INFO",
+      "message": "Exported 1 records to JSON",
+      "timestamp": "2026-03-17 15:19:09"
+    },
+    {
+      "epochTime": 1773785949,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:19:09"
+    },
+    {
+      "epochTime": 1773786009,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773785949 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:20:09"
+    },
+    {
+      "epochTime": 1773786009,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:20:09"
+    },
+    {
+      "epochTime": 1773786009,
+      "level": "INFO",
+      "message": "Exported 1 records to JSON",
+      "timestamp": "2026-03-17 15:20:09"
+    },
+    {
+      "epochTime": 1773786009,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:20:09"
+    },
+    {
+      "epochTime": 1773786069,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786009 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:21:09"
+    },
+    {
+      "epochTime": 1773786069,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:21:09"
+    },
+    {
+      "epochTime": 1773786070,
+      "level": "INFO",
+      "message": "Exported 1 records to JSON",
+      "timestamp": "2026-03-17 15:21:10"
+    },
+    {
+      "epochTime": 1773786070,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:21:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786070 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "Decoding hex payload: 52420356110116142421272500700b110100036357caa60298... (50 bytes)",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Flight Status: 0x01 -> PRE-LAUNCH | BT:OK",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  UTC: 22:20:36",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Altitude: 222039 feet",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Alt units byte=202 (expected 0 or 1)",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Altitude=222039 out of range",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  GNSS Valid: NO — junk data, will not plot",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  AHT20: 16.228294% RH, 42.655945 C (108.780701 F) [OK]",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Radio: 101.000000 MHz, signal=3/15 MONO",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Master Batt: 7.434851 V",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.566919 V",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Int Temp:    29.120142 C",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Ext Temp:    32.478539 C",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "  Modem: current=146 (Transmit Successful, No Receive), prev=13, txOK=1",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 82",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 82)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T22:21:12Z\nIridium Lat:     33.6564\nIridium Lon:     -112.218\nIridium CEP:     6\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x01]\n  BT RX: OK  Burst: no  Landing: no\n\nGNSS: (INVALID — junk data)\n  UTC:       22:20:36\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  222039 feet\n\nI2C Sensors:\n  AHT20:     16.23% RH, 42.66 C (108.78 F) [OK]\n  Radio:     101.00 MHz, signal 3/15 MONO\n\nAnalog Sensors:\n  Master Battery: 7.43 V\n  Slave Battery: 0.57 V\n  Internal Temperature: 29.12 °C (84°F)\n  External Temperature: 32.48 °C (90°F)\n\nModem:\n  Current:   146 — Transmit Successful, No Receive\n  Previous:  13 — Code 13\n  TX Count:  1\n\n",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "Exported 2 records to JSON",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786130,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:22:10"
+    },
+    {
+      "epochTime": 1773786190,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786130 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:23:10"
+    },
+    {
+      "epochTime": 1773786190,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:23:10"
+    },
+    {
+      "epochTime": 1773786190,
+      "level": "INFO",
+      "message": "Exported 2 records to JSON",
+      "timestamp": "2026-03-17 15:23:10"
+    },
+    {
+      "epochTime": 1773786190,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:23:10"
+    },
+    {
+      "epochTime": 1773786250,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786190 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:24:10"
+    },
+    {
+      "epochTime": 1773786251,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:24:11"
+    },
+    {
+      "epochTime": 1773786251,
+      "level": "INFO",
+      "message": "Exported 2 records to JSON",
+      "timestamp": "2026-03-17 15:24:11"
+    },
+    {
+      "epochTime": 1773786251,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:24:11"
+    },
+    {
+      "epochTime": 1773786311,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786251 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:25:11"
+    },
+    {
+      "epochTime": 1773786311,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:25:11"
+    },
+    {
+      "epochTime": 1773786311,
+      "level": "INFO",
+      "message": "Exported 2 records to JSON",
+      "timestamp": "2026-03-17 15:25:11"
+    },
+    {
+      "epochTime": 1773786311,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:25:11"
+    },
+    {
+      "epochTime": 1773786371,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786311 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:26:11"
+    },
+    {
+      "epochTime": 1773786371,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:26:11"
+    },
+    {
+      "epochTime": 1773786371,
+      "level": "INFO",
+      "message": "Exported 2 records to JSON",
+      "timestamp": "2026-03-17 15:26:11"
+    },
+    {
+      "epochTime": 1773786371,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:26:11"
+    },
+    {
+      "epochTime": 1773786431,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786371 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:27:11"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "Decoding hex payload: 524203561101161a0c21272500700b11010000017e00f602e7... (50 bytes)",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Flight Status: 0x01 -> PRE-LAUNCH | BT:OK",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  UTC: 22:26:12",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Altitude: 382 meters",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  GNSS Valid: YES",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  AHT20: 18.163967% RH, 42.607880 C (108.694183 F) [OK]",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Radio: 96.599998 MHz, signal=3/15 STEREO",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Master Batt: 7.338682 V",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.566919 V",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Int Temp:    32.206638 C",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Ext Temp:    32.921726 C",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "  Modem: current=146 (Transmit Successful, No Receive), prev=146, txOK=2",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 83",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 83)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T22:26:37Z\nIridium Lat:     33.6755\nIridium Lon:     -112.162\nIridium CEP:     3\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x01]\n  BT RX: OK  Burst: no  Landing: no\n\nGNSS: (VALID)\n  UTC:       22:26:12\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  382 meters\n\nI2C Sensors:\n  AHT20:     18.16% RH, 42.61 C (108.69 F) [OK]\n  Radio:     96.60 MHz, signal 3/15 STEREO\n\nAnalog Sensors:\n  Master Battery: 7.34 V\n  Slave Battery: 0.57 V\n  Internal Temperature: 32.21 °C (89°F)\n  External Temperature: 32.92 °C (91°F)\n\nModem:\n  Current:   146 — Transmit Successful, No Receive\n  Previous:  146 — Transmit Successful, No Receive\n  TX Count:  2\n\n",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786432,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:27:12"
+    },
+    {
+      "epochTime": 1773786492,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786432 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:28:12"
+    },
+    {
+      "epochTime": 1773786492,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:28:12"
+    },
+    {
+      "epochTime": 1773786492,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:28:12"
+    },
+    {
+      "epochTime": 1773786492,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:28:12"
+    },
+    {
+      "epochTime": 1773786552,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786492 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:29:12"
+    },
+    {
+      "epochTime": 1773786552,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:29:12"
+    },
+    {
+      "epochTime": 1773786552,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:29:12"
+    },
+    {
+      "epochTime": 1773786552,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:29:12"
+    },
+    {
+      "epochTime": 1773786612,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786552 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:30:12"
+    },
+    {
+      "epochTime": 1773786612,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:30:12"
+    },
+    {
+      "epochTime": 1773786612,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:30:12"
+    },
+    {
+      "epochTime": 1773786612,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:30:12"
+    },
+    {
+      "epochTime": 1773786673,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786612 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:31:12"
+    },
+    {
+      "epochTime": 1773786673,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:31:13"
+    },
+    {
+      "epochTime": 1773786673,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:31:13"
+    },
+    {
+      "epochTime": 1773786673,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:31:13"
+    },
+    {
+      "epochTime": 1773786733,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786673 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:32:13"
+    },
+    {
+      "epochTime": 1773786733,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:32:13"
+    },
+    {
+      "epochTime": 1773786733,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:32:13"
+    },
+    {
+      "epochTime": 1773786733,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:32:13"
+    },
+    {
+      "epochTime": 1773786793,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786733 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:33:13"
+    },
+    {
+      "epochTime": 1773786793,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:33:13"
+    },
+    {
+      "epochTime": 1773786793,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:33:13"
+    },
+    {
+      "epochTime": 1773786793,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:33:13"
+    },
+    {
+      "epochTime": 1773786853,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786793 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:34:13"
+    },
+    {
+      "epochTime": 1773786854,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:34:14"
+    },
+    {
+      "epochTime": 1773786854,
+      "level": "INFO",
+      "message": "Exported 3 records to JSON",
+      "timestamp": "2026-03-17 15:34:14"
+    },
+    {
+      "epochTime": 1773786854,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:34:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786854 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "Decoding hex payload: 52420356110116220121272500700b1101000368acca6d02fe... (50 bytes)",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "  Flight Status: 0x01 -> PRE-LAUNCH | BT:OK",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "  UTC: 22:34:1",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786914,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  Altitude: 223404 feet",
+      "timestamp": "2026-03-17 15:35:14"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Alt units byte=202 (expected 0 or 1)",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Altitude=223404 out of range",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  GNSS Valid: NO — junk data, will not plot",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  AHT20: 18.704510% RH, 42.677498 C (108.819496 F) [OK]",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  Radio: 99.199997 MHz, signal=1/15 MONO",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  Master Batt: 7.295572 V",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.543541 V",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  Int Temp:    35.894604 C",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  Ext Temp:    33.586514 C",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "  Modem: current=13 (Code 13), prev=13, txOK=3",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 84",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 84)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T22:34:43Z\nIridium Lat:     33.6454\nIridium Lon:     -112.162\nIridium CEP:     4\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x01]\n  BT RX: OK  Burst: no  Landing: no\n\nGNSS: (INVALID — junk data)\n  UTC:       22:34:1\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  223404 feet\n\nI2C Sensors:\n  AHT20:     18.70% RH, 42.68 C (108.82 F) [OK]\n  Radio:     99.20 MHz, signal 1/15 MONO\n\nAnalog Sensors:\n  Master Battery: 7.30 V\n  Slave Battery: 0.54 V\n  Internal Temperature: 35.89 °C (96°F)\n  External Temperature: 33.59 °C (92°F)\n\nModem:\n  Current:   13 — Code 13\n  Previous:  13 — Code 13\n  TX Count:  3\n\n",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786915,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:35:15"
+    },
+    {
+      "epochTime": 1773786975,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786915 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:36:15"
+    },
+    {
+      "epochTime": 1773786975,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:36:15"
+    },
+    {
+      "epochTime": 1773786975,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:36:15"
+    },
+    {
+      "epochTime": 1773786975,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:36:15"
+    },
+    {
+      "epochTime": 1773787035,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773786975 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:37:15"
+    },
+    {
+      "epochTime": 1773787035,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:37:15"
+    },
+    {
+      "epochTime": 1773787035,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:37:15"
+    },
+    {
+      "epochTime": 1773787035,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:37:15"
+    },
+    {
+      "epochTime": 1773787095,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787035 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:38:15"
+    },
+    {
+      "epochTime": 1773787095,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:38:15"
+    },
+    {
+      "epochTime": 1773787095,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:38:15"
+    },
+    {
+      "epochTime": 1773787095,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:38:15"
+    },
+    {
+      "epochTime": 1773787155,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787095 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:39:15"
+    },
+    {
+      "epochTime": 1773787156,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:39:16"
+    },
+    {
+      "epochTime": 1773787156,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:39:16"
+    },
+    {
+      "epochTime": 1773787156,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:39:16"
+    },
+    {
+      "epochTime": 1773787216,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787156 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:40:16"
+    },
+    {
+      "epochTime": 1773787216,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:40:16"
+    },
+    {
+      "epochTime": 1773787216,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:40:16"
+    },
+    {
+      "epochTime": 1773787216,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:40:16"
+    },
+    {
+      "epochTime": 1773787276,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787216 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:41:16"
+    },
+    {
+      "epochTime": 1773787276,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:41:16"
+    },
+    {
+      "epochTime": 1773787276,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:41:16"
+    },
+    {
+      "epochTime": 1773787276,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:41:16"
+    },
+    {
+      "epochTime": 1773787336,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787276 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:42:16"
+    },
+    {
+      "epochTime": 1773787336,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:42:16"
+    },
+    {
+      "epochTime": 1773787336,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:42:16"
+    },
+    {
+      "epochTime": 1773787336,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:42:16"
+    },
+    {
+      "epochTime": 1773787396,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787336 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:43:16"
+    },
+    {
+      "epochTime": 1773787397,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:43:17"
+    },
+    {
+      "epochTime": 1773787397,
+      "level": "INFO",
+      "message": "Exported 4 records to JSON",
+      "timestamp": "2026-03-17 15:43:17"
+    },
+    {
+      "epochTime": 1773787397,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:43:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787397 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "Decoding hex payload: 524203561101162b0b21272500700b11010000018300f80379... (50 bytes)",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Flight Status: 0x01 -> PRE-LAUNCH | BT:OK",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  UTC: 22:43:11",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Altitude: 387 meters",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  GNSS Valid: YES",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  AHT20: 21.725464% RH, 41.192055 C (106.145699 F) [OK]",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Radio: 105.000000 MHz, signal=1/15 MONO",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Master Batt: 7.156292 V",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.561074 V",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Int Temp:    37.968094 C",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Ext Temp:    31.924551 C",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "  Modem: current=13 (Code 13), prev=13, txOK=4",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 85",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 85)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T22:43:56Z\nIridium Lat:     33.694\nIridium Lon:     -112.178\nIridium CEP:     4\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x01]\n  BT RX: OK  Burst: no  Landing: no\n\nGNSS: (VALID)\n  UTC:       22:43:11\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  387 meters\n\nI2C Sensors:\n  AHT20:     21.73% RH, 41.19 C (106.15 F) [OK]\n  Radio:     105.00 MHz, signal 1/15 MONO\n\nAnalog Sensors:\n  Master Battery: 7.16 V\n  Slave Battery: 0.56 V\n  Internal Temperature: 37.97 °C (100°F)\n  External Temperature: 31.92 °C (89°F)\n\nModem:\n  Current:   13 — Code 13\n  Previous:  13 — Code 13\n  TX Count:  4\n\n",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787457,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:44:17"
+    },
+    {
+      "epochTime": 1773787517,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787457 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:45:17"
+    },
+    {
+      "epochTime": 1773787517,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:45:17"
+    },
+    {
+      "epochTime": 1773787517,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:45:17"
+    },
+    {
+      "epochTime": 1773787517,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:45:17"
+    },
+    {
+      "epochTime": 1773787577,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787517 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:46:17"
+    },
+    {
+      "epochTime": 1773787578,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:46:18"
+    },
+    {
+      "epochTime": 1773787578,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:46:18"
+    },
+    {
+      "epochTime": 1773787578,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:46:18"
+    },
+    {
+      "epochTime": 1773787638,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787578 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:47:18"
+    },
+    {
+      "epochTime": 1773787638,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:47:18"
+    },
+    {
+      "epochTime": 1773787638,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:47:18"
+    },
+    {
+      "epochTime": 1773787638,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:47:18"
+    },
+    {
+      "epochTime": 1773787698,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787638 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:48:18"
+    },
+    {
+      "epochTime": 1773787698,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:48:18"
+    },
+    {
+      "epochTime": 1773787698,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:48:18"
+    },
+    {
+      "epochTime": 1773787698,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:48:18"
+    },
+    {
+      "epochTime": 1773787758,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787698 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:49:18"
+    },
+    {
+      "epochTime": 1773787758,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:49:18"
+    },
+    {
+      "epochTime": 1773787758,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:49:18"
+    },
+    {
+      "epochTime": 1773787758,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:49:18"
+    },
+    {
+      "epochTime": 1773787818,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787758 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:50:18"
+    },
+    {
+      "epochTime": 1773787819,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:50:19"
+    },
+    {
+      "epochTime": 1773787819,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:50:19"
+    },
+    {
+      "epochTime": 1773787819,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:50:19"
+    },
+    {
+      "epochTime": 1773787879,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787819 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:51:19"
+    },
+    {
+      "epochTime": 1773787879,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:51:19"
+    },
+    {
+      "epochTime": 1773787879,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:51:19"
+    },
+    {
+      "epochTime": 1773787879,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:51:19"
+    },
+    {
+      "epochTime": 1773787939,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787879 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:52:19"
+    },
+    {
+      "epochTime": 1773787939,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:52:19"
+    },
+    {
+      "epochTime": 1773787939,
+      "level": "INFO",
+      "message": "Exported 5 records to JSON",
+      "timestamp": "2026-03-17 15:52:19"
+    },
+    {
+      "epochTime": 1773787939,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:52:19"
+    },
+    {
+      "epochTime": 1773787999,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773787939 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:53:19"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "Decoding hex payload: 52420356110116340a21272500700b110100036fbeca840287... (50 bytes)",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Flight Status: 0x01 -> PRE-LAUNCH | BT:OK",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  UTC: 22:52:10",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Altitude: 225214 feet",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Alt units byte=202 (expected 0 or 1)",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Altitude=225214 out of range",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  GNSS Valid: NO — junk data, will not plot",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  AHT20: 15.805244% RH, 41.496277 C (106.693298 F) [OK]",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Radio: 92.000000 MHz, signal=2/15 MONO",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Master Batt: 7.060123 V",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.561074 V",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Int Temp:    38.015575 C",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Ext Temp:    33.080009 C",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "  Modem: current=13 (Code 13), prev=240, txOK=5",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 86",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 86)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T22:53:03Z\nIridium Lat:     33.6755\nIridium Lon:     -112.162\nIridium CEP:     4\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x01]\n  BT RX: OK  Burst: no  Landing: no\n\nGNSS: (INVALID — junk data)\n  UTC:       22:52:10\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  225214 feet\n\nI2C Sensors:\n  AHT20:     15.81% RH, 41.50 C (106.69 F) [OK]\n  Radio:     92.00 MHz, signal 2/15 MONO\n\nAnalog Sensors:\n  Master Battery: 7.06 V\n  Slave Battery: 0.56 V\n  Internal Temperature: 38.02 °C (100°F)\n  External Temperature: 33.08 °C (91°F)\n\nModem:\n  Current:   13 — Code 13\n  Previous:  240 — Code 240\n  TX Count:  5\n\n",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788000,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:53:20"
+    },
+    {
+      "epochTime": 1773788060,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788000 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:54:20"
+    },
+    {
+      "epochTime": 1773788060,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:54:20"
+    },
+    {
+      "epochTime": 1773788060,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 15:54:20"
+    },
+    {
+      "epochTime": 1773788060,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:54:20"
+    },
+    {
+      "epochTime": 1773788120,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788060 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:55:20"
+    },
+    {
+      "epochTime": 1773788120,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:55:20"
+    },
+    {
+      "epochTime": 1773788120,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 15:55:20"
+    },
+    {
+      "epochTime": 1773788120,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:55:20"
+    },
+    {
+      "epochTime": 1773788180,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788120 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:56:20"
+    },
+    {
+      "epochTime": 1773788181,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:56:21"
+    },
+    {
+      "epochTime": 1773788181,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 15:56:21"
+    },
+    {
+      "epochTime": 1773788181,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:56:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788181 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "GmailClient Token expired, refreshing...",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "Refreshing access token.",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "EncodedURL: 1%2F%2F06cQDvkJx5zJACgYIARAAGAYSNwF-L9IrrRfwuwxxJwXLLs_0G7SLgAyTQpgW3452PGwPSP7z_hVku9Ym3mkbR_BFB3tMvTHePkI",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "EncodedURL: 580589979956-tdq3mibriqvhc7eul1g0qua292jslt6p.apps.googleusercontent.com",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "EncodedURL: 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",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "Making token request to Google.",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "HTTP Status: 200",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "Token refreshed successfully.",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788241,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:57:21"
+    },
+    {
+      "epochTime": 1773788301,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788241 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:58:21"
+    },
+    {
+      "epochTime": 1773788301,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:58:21"
+    },
+    {
+      "epochTime": 1773788301,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 15:58:21"
+    },
+    {
+      "epochTime": 1773788301,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:58:21"
+    },
+    {
+      "epochTime": 1773788361,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788301 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 15:59:21"
+    },
+    {
+      "epochTime": 1773788362,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 15:59:22"
+    },
+    {
+      "epochTime": 1773788362,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 15:59:22"
+    },
+    {
+      "epochTime": 1773788362,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 15:59:22"
+    },
+    {
+      "epochTime": 1773788422,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788362 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:00:22"
+    },
+    {
+      "epochTime": 1773788422,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:00:22"
+    },
+    {
+      "epochTime": 1773788422,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 16:00:22"
+    },
+    {
+      "epochTime": 1773788422,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:00:22"
+    },
+    {
+      "epochTime": 1773788482,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788422 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:01:22"
+    },
+    {
+      "epochTime": 1773788482,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:01:22"
+    },
+    {
+      "epochTime": 1773788482,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 16:01:22"
+    },
+    {
+      "epochTime": 1773788482,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:01:22"
+    },
+    {
+      "epochTime": 1773788542,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788482 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:02:22"
+    },
+    {
+      "epochTime": 1773788543,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:02:23"
+    },
+    {
+      "epochTime": 1773788543,
+      "level": "INFO",
+      "message": "Exported 6 records to JSON",
+      "timestamp": "2026-03-17 16:02:23"
+    },
+    {
+      "epochTime": 1773788543,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:02:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788543 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "Decoding hex payload: 52420356110216383221272500700b110100037176ca140368... (50 bytes)",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Flight Status: 0x02 -> PRE-LAUNCH | BT:FAIL",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  UTC: 22:56:50",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Altitude: 225654 feet",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Alt units byte=202 (expected 0 or 1)",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Altitude=225654 out of range",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  GNSS Valid: NO — junk data, will not plot",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  AHT20: 21.302128% RH, 42.220879 C (107.997581 F) [OK]",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Radio: 99.000000 MHz, signal=2/15 MONO",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Master Batt: 6.950690 V",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.558152 V",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Int Temp:    39.899132 C",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Ext Temp:    31.639647 C",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "  Modem: current=13 (Code 13), prev=13, txOK=6",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 87",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 87)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T23:02:46Z\nIridium Lat:     33.6755\nIridium Lon:     -112.162\nIridium CEP:     3\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x02]\n  BT RX: FAIL  Burst: no  Landing: no\n\nGNSS: (INVALID — junk data)\n  UTC:       22:56:50\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  225654 feet\n\nI2C Sensors:\n  AHT20:     21.30% RH, 42.22 C (108.00 F) [OK]\n  Radio:     99.00 MHz, signal 2/15 MONO\n\nAnalog Sensors:\n  Master Battery: 6.95 V\n  Slave Battery: 0.56 V\n  Internal Temperature: 39.90 °C (103°F)\n  External Temperature: 31.64 °C (88°F)\n\nModem:\n  Current:   13 — Code 13\n  Previous:  13 — Code 13\n  TX Count:  6\n\n",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788603,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:03:23"
+    },
+    {
+      "epochTime": 1773788663,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788603 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:04:23"
+    },
+    {
+      "epochTime": 1773788663,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:04:23"
+    },
+    {
+      "epochTime": 1773788663,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:04:23"
+    },
+    {
+      "epochTime": 1773788663,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:04:23"
+    },
+    {
+      "epochTime": 1773788723,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788663 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:05:23"
+    },
+    {
+      "epochTime": 1773788724,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:05:24"
+    },
+    {
+      "epochTime": 1773788724,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:05:24"
+    },
+    {
+      "epochTime": 1773788724,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:05:24"
+    },
+    {
+      "epochTime": 1773788784,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788724 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:06:24"
+    },
+    {
+      "epochTime": 1773788784,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:06:24"
+    },
+    {
+      "epochTime": 1773788784,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:06:24"
+    },
+    {
+      "epochTime": 1773788784,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:06:24"
+    },
+    {
+      "epochTime": 1773788844,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788784 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:07:24"
+    },
+    {
+      "epochTime": 1773788844,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:07:24"
+    },
+    {
+      "epochTime": 1773788844,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:07:24"
+    },
+    {
+      "epochTime": 1773788844,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:07:24"
+    },
+    {
+      "epochTime": 1773788904,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788844 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:08:24"
+    },
+    {
+      "epochTime": 1773788904,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:08:24"
+    },
+    {
+      "epochTime": 1773788904,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:08:24"
+    },
+    {
+      "epochTime": 1773788904,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:08:24"
+    },
+    {
+      "epochTime": 1773788965,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788904 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:09:25"
+    },
+    {
+      "epochTime": 1773788965,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:09:25"
+    },
+    {
+      "epochTime": 1773788965,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:09:25"
+    },
+    {
+      "epochTime": 1773788965,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:09:25"
+    },
+    {
+      "epochTime": 1773789025,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773788965 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:10:25"
+    },
+    {
+      "epochTime": 1773789025,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:10:25"
+    },
+    {
+      "epochTime": 1773789025,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:10:25"
+    },
+    {
+      "epochTime": 1773789025,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:10:25"
+    },
+    {
+      "epochTime": 1773789085,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789025 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:11:25"
+    },
+    {
+      "epochTime": 1773789085,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:11:25"
+    },
+    {
+      "epochTime": 1773789085,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:11:25"
+    },
+    {
+      "epochTime": 1773789085,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:11:25"
+    },
+    {
+      "epochTime": 1773789145,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789085 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:12:25"
+    },
+    {
+      "epochTime": 1773789146,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:12:26"
+    },
+    {
+      "epochTime": 1773789146,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:12:26"
+    },
+    {
+      "epochTime": 1773789146,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:12:26"
+    },
+    {
+      "epochTime": 1773789206,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789146 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:13:26"
+    },
+    {
+      "epochTime": 1773789206,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:13:26"
+    },
+    {
+      "epochTime": 1773789206,
+      "level": "INFO",
+      "message": "Exported 7 records to JSON",
+      "timestamp": "2026-03-17 16:13:26"
+    },
+    {
+      "epochTime": 1773789206,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:13:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789206 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "GmailClient Parsed message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "Found 1 new message(s)",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "Processing message from: 300534065390120 <300534065390120@rockblock.rock7.com>",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "Decoding hex payload: 524203561101170d1221272500700b11010003879acac502a8... (50 bytes)",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Header: RB Valid",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  RockBLOCK Serial: 218641",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Flight Status: 0x01 -> PRE-LAUNCH | BT:OK",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  UTC: 23:13:18",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Lat: 33.660278  Lon: -112.188056",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Altitude: 231322 feet",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Alt units byte=202 (expected 0 or 1)",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "WARNING",
+      "message": "  GNSS SANITY: Altitude=231322 out of range",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  GNSS Valid: NO — junk data, will not plot",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  AHT20: 16.612816% RH, 41.708374 C (107.075073 F) [OK]",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Radio: 91.299995 MHz, signal=3/15 MONO",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Master Batt: 6.924160 V",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Slave Batt:  0.561074 V",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Int Temp:    35.942089 C",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Ext Temp:    30.974859 C",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "  Modem: current=32 (Code 32), prev=13, txOK=7",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "Parsed telemetry - MOMSN: 88",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "\n BALLOON TELEMETRY (MOMSN: 88)\nIMEI:            300534065390120\nTransmit Time:   2026-03-17T23:14:10Z\nIridium Lat:     33.6454\nIridium Lon:     -112.162\nIridium CEP:     3\nSession Status:  0\n\n DECODED PAYLOAD (v4.2 — 50 byte frame: 5 mfr + 45 TX)\nHeader:          RB Valid\nSerial Number:   218641\nFlight Phase:    PRE-LAUNCH  [0x01]\n  BT RX: OK  Burst: no  Landing: no\n\nGNSS: (INVALID — junk data)\n  UTC:       23:13:18\n  Latitude:  33.66 (33d 39' 37\" N)\n  Longitude: -112.19 (112d 11' 17\" W)\n  Altitude:  231322 feet\n\nI2C Sensors:\n  AHT20:     16.61% RH, 41.71 C (107.08 F) [OK]\n  Radio:     91.30 MHz, signal 3/15 MONO\n\nAnalog Sensors:\n  Master Battery: 6.92 V\n  Slave Battery: 0.56 V\n  Internal Temperature: 35.94 °C (96°F)\n  External Temperature: 30.97 °C (87°F)\n\nModem:\n  Current:   32 — Code 32\n  Previous:  13 — Code 13\n  TX Count:  7\n\n",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789266,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:14:26"
+    },
+    {
+      "epochTime": 1773789326,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789266 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:15:26"
+    },
+    {
+      "epochTime": 1773789327,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:15:27"
+    },
+    {
+      "epochTime": 1773789327,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:15:27"
+    },
+    {
+      "epochTime": 1773789327,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:15:27"
+    },
+    {
+      "epochTime": 1773789387,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789327 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:16:27"
+    },
+    {
+      "epochTime": 1773789387,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:16:27"
+    },
+    {
+      "epochTime": 1773789387,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:16:27"
+    },
+    {
+      "epochTime": 1773789387,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:16:27"
+    },
+    {
+      "epochTime": 1773789447,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789387 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:17:27"
+    },
+    {
+      "epochTime": 1773789447,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:17:27"
+    },
+    {
+      "epochTime": 1773789447,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:17:27"
+    },
+    {
+      "epochTime": 1773789447,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:17:27"
+    },
+    {
+      "epochTime": 1773789507,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789447 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:18:27"
+    },
+    {
+      "epochTime": 1773789507,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:18:27"
+    },
+    {
+      "epochTime": 1773789507,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:18:27"
+    },
+    {
+      "epochTime": 1773789507,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:18:27"
+    },
+    {
+      "epochTime": 1773789568,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789507 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:19:28"
+    },
+    {
+      "epochTime": 1773789568,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:19:28"
+    },
+    {
+      "epochTime": 1773789568,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:19:28"
+    },
+    {
+      "epochTime": 1773789568,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:19:28"
+    },
+    {
+      "epochTime": 1773789628,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789568 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:20:28"
+    },
+    {
+      "epochTime": 1773789628,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:20:28"
+    },
+    {
+      "epochTime": 1773789628,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:20:28"
+    },
+    {
+      "epochTime": 1773789628,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:20:28"
+    },
+    {
+      "epochTime": 1773789688,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789628 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:21:28"
+    },
+    {
+      "epochTime": 1773789688,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:21:28"
+    },
+    {
+      "epochTime": 1773789688,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:21:28"
+    },
+    {
+      "epochTime": 1773789688,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:21:28"
+    },
+    {
+      "epochTime": 1773789748,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789688 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:22:28"
+    },
+    {
+      "epochTime": 1773789748,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:22:28"
+    },
+    {
+      "epochTime": 1773789748,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:22:28"
+    },
+    {
+      "epochTime": 1773789748,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:22:28"
+    },
+    {
+      "epochTime": 1773789809,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789748 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:23:29"
+    },
+    {
+      "epochTime": 1773789809,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:23:29"
+    },
+    {
+      "epochTime": 1773789809,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:23:29"
+    },
+    {
+      "epochTime": 1773789809,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:23:29"
+    },
+    {
+      "epochTime": 1773789869,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789809 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:24:29"
+    },
+    {
+      "epochTime": 1773789869,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:24:29"
+    },
+    {
+      "epochTime": 1773789869,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:24:29"
+    },
+    {
+      "epochTime": 1773789869,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:24:29"
+    },
+    {
+      "epochTime": 1773789929,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789869 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 16:25:29"
+    },
+    {
+      "epochTime": 1773789929,
+      "level": "INFO",
+      "message": "Found 0 new message(s)",
+      "timestamp": "2026-03-17 16:25:29"
+    },
+    {
+      "epochTime": 1773789929,
+      "level": "INFO",
+      "message": "Exported 8 records to JSON",
+      "timestamp": "2026-03-17 16:25:29"
+    },
+    {
+      "epochTime": 1773789929,
+      "level": "INFO",
+      "message": "Waiting 1 minutes...",
+      "timestamp": "2026-03-17 16:25:29"
+    },
+    {
+      "epochTime": 1773809891,
+      "level": "INFO",
+      "message": "GmailClient Searching for: \"after:1773789929 from:300534065390120@rockblock.rock7.com\"",
+      "timestamp": "2026-03-17 21:58:11"
+    },
+    {
+      "epochTime": 1773809891,
+      "level": "INFO",
+      "message": "GmailClient Token expired, refreshing...",
+      "timestamp": "2026-03-17 21:58:11"
+    },
+    {
+      "epochTime": 1773809891,
+      "level": "INFO",
+      "message": "Refreshing access token.",
+      "timestamp": "2026-03-17 21:58:11"
+    },
+    {
+      "epochTime": 1773809891,
+      "level": "INFO",
+      "message": "EncodedURL: 1%2F%2F06cQDvkJx5zJACgYIARAAGAYSNwF-L9IrrRfwuwxxJwXLLs_0G7SLgAyTQpgW3452PGwPSP7z_hVku9Ym3mkbR_BFB3tMvTHePkI",
+      "timestamp": "2026-03-17 21:58:11"
+    },
+    {
+      "epochTime": 1773809891,
+      "level": "INFO",
+      "message": "EncodedURL: 580589979956-tdq3mibriqvhc7eul1g0qua292jslt6p.apps.googleusercontent.com",
+      "timestamp": "2026-03-17 21:58:11"
+    }
+  ],
+  "totalLogs": 500
+}
